@@ -1,3 +1,6 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "moonstone",
+  "textFontFamily": "Consolas",
+  "baseFontSize": 18
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pipeline/Azure.md",
+                "file": "Cypress/Pipeline/Azure DevOps.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 210.5
   },
   "right": {
     "id": "689b47b01ffd8233",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pipeline/Azure.md",
+                "file": "Cypress/Pipeline/Azure DevOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pipeline/Azure.md",
+                "file": "Cypress/Pipeline/Azure DevOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pipeline/Azure.md"
+                "file": "Cypress/Pipeline/Azure DevOps.md"
               }
             }
           }
@@ -146,10 +146,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9217219eeeac412e",
+  "active": "d19f0a322f55d8be",
   "lastOpenFiles": [
-    "Pipeline/Azure.md",
-    "Pipeline",
+    "Pasted image 20230307100949.png",
+    "Pasted image 20230307100853.png",
+    "Cypress/Pipeline/Azure DevOps.md",
+    "Cypress/Pipeline",
     "Cypress"
   ]
 }
