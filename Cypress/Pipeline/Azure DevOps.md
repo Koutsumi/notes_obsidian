@@ -29,14 +29,14 @@ Criando o pipeline de testes contínuos em Cypress
 			4. script: (instala as dependências do projeto +  build)
 				1. Como o cypress não utiliza o build o código `npm run build` pode ser deletado e o "displayName" alterado para `npm install`
 		2. Ao final do documento adicione o código:
+	4. Clique em "Save and run"
 ```bash
 - script: |
 	npx cypress run
   displayName: 'run e2e tests'
   continueOnError: true
 ```
-	4. Clique em "Save and run"
-		1. Os testes já devem estar rodando
+
 
 ## Adicionando relatórios
 
